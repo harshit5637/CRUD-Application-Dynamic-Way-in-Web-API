@@ -1,0 +1,6 @@
+@Day4_CRUD_Dynamicway_HostAddress = http://localhost:5062
+
+GET {{Day4_CRUD_Dynamicway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

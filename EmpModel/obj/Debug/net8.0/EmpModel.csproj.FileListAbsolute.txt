@@ -1,0 +1,14 @@
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\bin\Debug\net8.0\EmpModel.deps.json
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\bin\Debug\net8.0\EmpModel.runtimeconfig.json
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\bin\Debug\net8.0\EmpModel.dll
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\bin\Debug\net8.0\EmpModel.pdb
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\obj\Debug\net8.0\EmpModel.csproj.AssemblyReference.cache
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\obj\Debug\net8.0\EmpModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\obj\Debug\net8.0\EmpModel.AssemblyInfoInputs.cache
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\obj\Debug\net8.0\EmpModel.AssemblyInfo.cs
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\obj\Debug\net8.0\EmpModel.csproj.CoreCompileInputs.cache
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\obj\Debug\net8.0\EmpModel.dll
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\obj\Debug\net8.0\refint\EmpModel.dll
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\obj\Debug\net8.0\EmpModel.pdb
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\obj\Debug\net8.0\EmpModel.genruntimeconfig.cache
+C:\Users\hmish\Documents\TrainingTECHRBM\Day4_CRUD_Dynamicway\EmpModel\obj\Debug\net8.0\ref\EmpModel.dll

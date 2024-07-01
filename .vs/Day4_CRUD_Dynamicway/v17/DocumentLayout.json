@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A44F35-39A7-442A-A85E-1CF30070A71D}|EmpServices\\EmpServices.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\empservices\\implementation\\emp_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A44F35-39A7-442A-A85E-1CF30070A71D}|EmpServices\\EmpServices.csproj|solutionrelative:empservices\\implementation\\emp_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A44F35-39A7-442A-A85E-1CF30070A71D}|EmpServices\\EmpServices.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\empservices\\interface\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A44F35-39A7-442A-A85E-1CF30070A71D}|EmpServices\\EmpServices.csproj|solutionrelative:empservices\\interface\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\day4_crud_dynamicway\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|solutionrelative:day4_crud_dynamicway\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA06C4C8-7983-4155-93CB-0B7553572236}|EmpData\\EmpData.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\empdata\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA06C4C8-7983-4155-93CB-0B7553572236}|EmpData\\EmpData.csproj|solutionrelative:empdata\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA06C4C8-7983-4155-93CB-0B7553572236}|EmpData\\EmpData.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\empdata\\emp_data\\emptableentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA06C4C8-7983-4155-93CB-0B7553572236}|EmpData\\EmpData.csproj|solutionrelative:empdata\\emp_data\\emptableentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\day4_crud_dynamicway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|solutionrelative:day4_crud_dynamicway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\day4_crud_dynamicway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|solutionrelative:day4_crud_dynamicway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDF988C-5F4E-4B3D-9BA4-06D190F15E1C}|EmpModel\\EmpModel.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\empmodel\\model\\emp_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDF988C-5F4E-4B3D-9BA4-06D190F15E1C}|EmpModel\\EmpModel.csproj|solutionrelative:empmodel\\model\\emp_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDF988C-5F4E-4B3D-9BA4-06D190F15E1C}|EmpModel\\EmpModel.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\empmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDF988C-5F4E-4B3D-9BA4-06D190F15E1C}|EmpModel\\EmpModel.csproj|solutionrelative:empmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\day4_crud_dynamicway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|solutionrelative:day4_crud_dynamicway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\day4_crud_dynamicway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|solutionrelative:day4_crud_dynamicway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A44F35-39A7-442A-A85E-1CF30070A71D}|EmpServices\\EmpServices.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\empservices\\empservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41A44F35-39A7-442A-A85E-1CF30070A71D}|EmpServices\\EmpServices.csproj|solutionrelative:empservices\\empservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A44F35-39A7-442A-A85E-1CF30070A71D}|EmpServices\\EmpServices.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\empservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A44F35-39A7-442A-A85E-1CF30070A71D}|EmpServices\\EmpServices.csproj|solutionrelative:empservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA06C4C8-7983-4155-93CB-0B7553572236}|EmpData\\EmpData.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\empdata\\empdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA06C4C8-7983-4155-93CB-0B7553572236}|EmpData\\EmpData.csproj|solutionrelative:empdata\\empdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA06C4C8-7983-4155-93CB-0B7553572236}|EmpData\\EmpData.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\empdata\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA06C4C8-7983-4155-93CB-0B7553572236}|EmpData\\EmpData.csproj|solutionrelative:empdata\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\day4_crud_dynamicway\\day4_crud_dynamicway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|solutionrelative:day4_crud_dynamicway\\day4_crud_dynamicway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\day4_crud_dynamicway\\day4_crud_dynamicway\\day4_crud_dynamicway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{98C3B53A-3F37-4EAB-9CAF-5CF27BFD63F9}|Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj|solutionrelative:day4_crud_dynamicway\\day4_crud_dynamicway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emp_Services.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpServices\\Implementation\\Emp_Services.cs",
+              "RelativeDocumentMoniker": "EmpServices\\Implementation\\Emp_Services.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpServices\\Implementation\\Emp_Services.cs",
+              "RelativeToolTip": "EmpServices\\Implementation\\Emp_Services.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:17:54.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\appsettings.json",
+              "RelativeDocumentMoniker": "Day4_CRUD_Dynamicway\\appsettings.json",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\appsettings.json",
+              "RelativeToolTip": "Day4_CRUD_Dynamicway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T10:08:38.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpServices\\Interface\\IEmployeeServices.cs",
+              "RelativeDocumentMoniker": "EmpServices\\Interface\\IEmployeeServices.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpServices\\Interface\\IEmployeeServices.cs",
+              "RelativeToolTip": "EmpServices\\Interface\\IEmployeeServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:04:34.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Emp_Model.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpModel\\Model\\Emp_Model.cs",
+              "RelativeDocumentMoniker": "EmpModel\\Model\\Emp_Model.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpModel\\Model\\Emp_Model.cs",
+              "RelativeToolTip": "EmpModel\\Model\\Emp_Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:06:25.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\Program.cs",
+              "RelativeDocumentMoniker": "Day4_CRUD_Dynamicway\\Program.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\Program.cs",
+              "RelativeToolTip": "Day4_CRUD_Dynamicway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:49:53.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpData\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmpData\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpData\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmpData\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:04:47.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Day4_CRUD_Dynamicway\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Day4_CRUD_Dynamicway\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:15:54.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpTableEntities.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpData\\Emp_Data\\EmpTableEntities.cs",
+              "RelativeDocumentMoniker": "EmpData\\Emp_Data\\EmpTableEntities.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpData\\Emp_Data\\EmpTableEntities.cs",
+              "RelativeToolTip": "EmpData\\Emp_Data\\EmpTableEntities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:10:46.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpModel\\Class1.cs",
+              "RelativeDocumentMoniker": "EmpModel\\Class1.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpModel\\Class1.cs",
+              "RelativeToolTip": "EmpModel\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:05:30.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Day4_CRUD_Dynamicway\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\appsettings.Development.json",
+              "RelativeToolTip": "Day4_CRUD_Dynamicway\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T11:35:58.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Day4_CRUD_Dynamicway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Day4_CRUD_Dynamicway\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T07:21:20.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpServices.csproj",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpServices\\EmpServices.csproj",
+              "RelativeDocumentMoniker": "EmpServices\\EmpServices.csproj",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpServices\\EmpServices.csproj",
+              "RelativeToolTip": "EmpServices\\EmpServices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T09:54:05.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpServices\\Class1.cs",
+              "RelativeDocumentMoniker": "EmpServices\\Class1.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpServices\\Class1.cs",
+              "RelativeToolTip": "EmpServices\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:07:16.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmpData.csproj",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpData\\EmpData.csproj",
+              "RelativeDocumentMoniker": "EmpData\\EmpData.csproj",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpData\\EmpData.csproj",
+              "RelativeToolTip": "EmpData\\EmpData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T06:03:59.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpData\\Class1.cs",
+              "RelativeDocumentMoniker": "EmpData\\Class1.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\EmpData\\Class1.cs",
+              "RelativeToolTip": "EmpData\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:53:50.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Day4_CRUD_Dynamicway.csproj",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj",
+              "RelativeDocumentMoniker": "Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj",
+              "RelativeToolTip": "Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T05:18:04.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Day4_CRUD_Dynamicway",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj",
+              "RelativeDocumentMoniker": "Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj",
+              "RelativeToolTip": "Day4_CRUD_Dynamicway\\Day4_CRUD_Dynamicway.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T04:47:13.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
